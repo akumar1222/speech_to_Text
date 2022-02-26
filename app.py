@@ -29,3 +29,6 @@ def speak():
             flash("Error details: {}".format(cancellation_details.error_details))
     
     return render_template("index.html")
+
+if __name__ == '__main__' :
+    app.run();
