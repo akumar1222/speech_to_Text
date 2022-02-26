@@ -6,4 +6,3 @@ itsdangerous==2.1.0
 Werkzeug==2.0.1
 wincertstore==0.2
 MarkupSafe==2.0.1
-azure_storage==0.37.0
