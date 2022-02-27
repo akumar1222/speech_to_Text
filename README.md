@@ -7,5 +7,10 @@ Transcribe your content in real time or from stored files;
 deliver a better user experience in products through voice commands;
 gain insights from customer interactions to improve your service
 
-Whatch This Video for using this :
+The application converts the speech to text . When the user clicks the speak button and speaks something , it will display the text value of the speech . 
+Dependencies to be installed :
+pip install flask
+pip install azure.cognitiveservices.speech
+
+Whatch This demo Video :
 https://youtu.be/bES9-eqVIgU
