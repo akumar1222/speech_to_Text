@@ -6,3 +6,6 @@ Send audio and receive a text transcription from the Speech-to-Text API service.
 Transcribe your content in real time or from stored files;
 deliver a better user experience in products through voice commands;
 gain insights from customer interactions to improve your service
+
+Whatch This Video for using this :
+https://youtu.be/bES9-eqVIgU
